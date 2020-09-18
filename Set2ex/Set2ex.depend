@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1600403194 source:c:\users\training\desktop\c++\set2ex\main.cpp
+	<iostream>
+	"Complex.h"
+
+1600403124 c:\users\training\desktop\c++\set2ex\complex.h
+
+1600403153 source:c:\users\training\desktop\c++\set2ex\complex.cpp
+	<iostream>
+	"Complex.h"
+
